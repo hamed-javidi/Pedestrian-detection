@@ -17,4 +17,4 @@ b) Classify the HOG features of the testing images (both positive and negatives 
 using the trained SVM model (use built-in function/library).
 c) Compute the accuracy, false positive rate, and the miss rate.
 3. Repeat the experiment in part 2 for training the SVM classifier with different set of kernel
-functions (e. g. rbf, polynomial, etc.).
+functions (e. g. rbf, polynomial, etc.)
